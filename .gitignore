@@ -1,0 +1,90 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.vs/
+
+# Build folders
+bin/
+obj/
+Build/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio auto-generated files
+*.dbmdl
+*.log
+*.dsk
+*.pdb
+*.cache
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Package management
+*.nupkg
+packages/
+*.snupkg
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Files built by Visual Studio
+*.appx
+*.appxsym
+*.aps
+*.bk
+*.bsc
+*.dll
+*.exe
+*.ipch
+*.lib
+*.log
+*.metaproj
+*.obj
+*.pch
+*.pgc
+*.pgd
+*.pyc
+*.pyo
+*.sbr
+*.tlb
+*.tli
+*.tmp
+*.vcxproj.user
+*.vhd
+*.vsix
+*.vssscc
+*.vshost.exe
+*.vspxproj.user
+*.vssscc
+*.vsp
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Crash reports
+crashdumps/
+
+# Others
+*.ide/
+*.coverage
+*.testsettings
